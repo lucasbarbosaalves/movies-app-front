@@ -34,6 +34,6 @@ npm install
 npm run start
 ```
 
-O programa poderá ser acessada em [localhost:8080](http://localhost:3000).
+O programa poderá ser acessada em [localhost:3000](http://localhost:3000).
 
 
